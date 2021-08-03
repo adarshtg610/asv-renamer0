@@ -18,7 +18,7 @@ Made with Python3
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/Rename-Bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/adarshtg610/asv-renamer0">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
